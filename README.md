@@ -17,8 +17,11 @@
 - 🧾 [Watermelon disease classification Machiene Learning ](https://github.com/Soukhya1234/watermelon-disease-Prediction)  
 
 -[Brain Brail Key Board](https://github.com/Soukhya1234/Brail-Keyboard)
+
 -[Mental Health of pregnant women during covid-19 Analysis](https://github.com/Soukhya1234/Data-Analysis)
+
 -[DSA OPTIROUTE](https://github.com/Soukhya1234/OPTIROUTE)
+
 -[Solar panel cleaning system](https://github.com/Soukhya1234/Solar-Panel-Cleaning-System)
 
 
