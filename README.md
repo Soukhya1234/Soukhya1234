@@ -11,15 +11,15 @@
 ### 🚀 Projects
 
 - 🎫 [Train Ticket Booking System](https://github.com/Soukhya1234/Train-Ticket-Booking-System)  
-  *A web-based platform for booking train tickets, seat selection, and payment system.*
 
-- 🧠 [Traffic categorization](https://github.com/Soukhya1234/Stroke-Prediction-ML)  
-  *ML-based project to predict stroke risk using health data and generate reports.*
+- 🧠 [Traffic categorization](https://github.com/Soukhya1234/Traffic-categorization-based-on-the-protocols)  
 
-- 🧾 [Watermelon disease classification Machiene Learning ](https://github.com/Soukhya1234/Legal-Doc-QA)  
-  *Uses NLP and Transformers to summarize legal texts and answer questions.*
+- 🧾 [Watermelon disease classification Machiene Learning ](https://github.com/Soukhya1234/watermelon-disease-Prediction)  
 
--[Brain Brail Key Board]()
+-[Brain Brail Key Board](https://github.com/Soukhya1234/Brail-Keyboard)
+-[Mental Health of pregnant women during covid-19 Analysis](https://github.com/Soukhya1234/Data-Analysis)
+-[DSA OPTIROUTE](https://github.com/Soukhya1234/OPTIROUTE)
+-[Solar panel cleaning system](https://github.com/Soukhya1234/Solar-Panel-Cleaning-System)
 
 
 ---
