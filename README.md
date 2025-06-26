@@ -22,7 +22,7 @@
 
 -  [DSA OPTIROUTE](https://github.com/Soukhya1234/OPTIROUTE)
 
--[Solar panel cleaning system](https://github.com/Soukhya1234/Solar-Panel-Cleaning-System)
+-  [Solar panel cleaning system](https://github.com/Soukhya1234/Solar-Panel-Cleaning-System)
 
 
 ---
