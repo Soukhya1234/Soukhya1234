@@ -14,7 +14,9 @@
 
 - 🧠 [Traffic categorization](https://github.com/Soukhya1234/Traffic-categorization-based-on-the-protocols)  
 
-- 🧾 [Watermelon disease classification Machiene Learning ](https://github.com/Soukhya1234/Watermelon-disease-Prediction)  
+- 🧾 [Watermelon disease classification Machiene Learning ](https://github.com/Soukhya1234/Watermelon-disease-Prediction)
+  
+- [Smart Health Care Portal](https://github.com/Soukhya1234/Smart-Health-Care-Portal)
 
 -  [Brain Brail Key Board](https://github.com/Soukhya1234/Brail-Keyboard)
 
