@@ -10,17 +10,17 @@
 
 ### 🚀 Projects
 
-- 🎫 [Train Ticket Booking System](https://github.com/Soukhya1234/Train)  
+-  [Train Ticket Booking System](https://github.com/Soukhya1234/Train)
 
-- 🧠 [Traffic categorization](https://github.com/Soukhya1234/Traffic-categorization-based-on-the-protocols)  
-
-- 🧾 [Watermelon disease classification Machiene Learning ](https://github.com/Soukhya1234/Watermelon-disease-Prediction)
-  
 - [Smart Health Care Portal]( https://github.com/Soukhya1234/Smart-Heathcare-Portal)
 
--  [Brain Brail Key Board](https://github.com/Soukhya1234/Brail-Keyboard)
+-  [Traffic categorization](https://github.com/Soukhya1234/Traffic-categorization-based-on-the-protocols)
 
 -  [Mental Health of pregnant women during covid-19 Analysis](https://github.com/Soukhya1234/Data-Analysis)
+
+-  [Watermelon disease classification Machiene Learning ](https://github.com/Soukhya1234/Wartermelon-disease-Prediction)
+  
+-  [Brain Brail Key Board](https://github.com/Soukhya1234/Brail-Keyboard)
 
 -  [DSA OPTIROUTE](https://github.com/Soukhya1234/OPTI-ROUTE)
 
