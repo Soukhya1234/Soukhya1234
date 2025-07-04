@@ -22,7 +22,7 @@
   
 -  [Brain Brail Key Board](https://github.com/Soukhya1234/Brail-Keyboard)
 
--  [DSA OPTIROUTE](https://github.com/Soukhya1234/OPTI-ROUTE)
+-  [Shortest Path Finding DSA Project OPTI-ROUTE](https://github.com/Soukhya1234/OPTI-ROUTE)
 
 -  [Solar panel cleaning system](https://github.com/Soukhya1234/Solar-Panel-Cleaning-System)
 
