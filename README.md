@@ -14,6 +14,8 @@
 
 - [Smart Health Care Portal]( https://github.com/Soukhya1234/Smart-Heathcare-Portal)
 
+- [Digital Smart Healthcare with Predictive Analytics](https://github.com/Soukhya1234/Digital-Smart-Healthcare-with-Predictive-Analytics)
+
 -  [Traffic categorization](https://github.com/Soukhya1234/Traffic-categorization-based-on-the-protocols)
 
 -  [Mental Health of pregnant women during covid-19 Analysis](https://github.com/Soukhya1234/Data-Analysis)
